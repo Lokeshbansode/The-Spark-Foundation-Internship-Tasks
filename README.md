@@ -1,6 +1,6 @@
 # The-Spark-Foundation-Internship-Tasks
 
-Task1:
+<b> Task1: <b>
 Prediction using Supervised ML
 
 ● Predict the percentage of an student based on the no. of study hours.
